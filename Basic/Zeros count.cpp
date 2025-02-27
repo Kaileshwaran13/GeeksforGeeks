@@ -1,13 +1,6 @@
-//{ Driver Code Starts
 // Initial template for C++
-
 #include <bits/stdc++.h>
 using namespace std;
-
-
-// } Driver Code Ends
-
-// User function template for C++
 
 class Solution {
   public:
@@ -21,8 +14,6 @@ class Solution {
     }
 };
 
-
-//{ Driver Code Starts.
 int main() {
     int t;
     cin >> t;
@@ -44,5 +35,3 @@ int main() {
 
     return 0;
 }
-
-// } Driver Code Ends
